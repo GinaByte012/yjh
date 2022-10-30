@@ -1,5 +1,5 @@
 
-.Dialog-box{
+.dialog-box{
   display: flex;
   flex-direction:column;
   width: 35rem;
@@ -13,16 +13,12 @@
   box-shadow: 8px 5px 5px lightgray;
 }
 
-.Dialog-title{
+.dialog-title{
   text-shadow: 4px 3px 2px lightgray;
 }
 
-.Dialog-message{
+.dialog-message{
   margin-bottom: 2.5rem;
 }
 
-.Dialog-button{
-  float: right;
-  border-style: dashed solid;
-}
 
